@@ -1,5 +1,6 @@
 ## Hello World! Eu sou a Kirley Moreira 👋
 
+🔭 Entusiasta da área de tecnologia e estudante com o foco em Backend
 
 🌱 Estudando C#/ .NET/
 
